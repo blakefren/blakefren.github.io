@@ -1,8 +1,14 @@
-Blake French
+# Blake French
 
 A copy of this resume can be found in PDF form [here](https://blakefren.github.io/resume.pdf).
 
-Please contact me via email or LinkedIn (both are below).
+Please contact me via email or LinkedIn:
+
+*LinkedIn*: [www.linkedin.com/in/blakefrench](www.linkedin.com/in/blakefrench)
+
+*Email*: blakefren@gmail.com
+
+*Github*: [https://github.com/blakefren](https://github.com/blakefren)
 
 # SUMMARY
 
@@ -18,15 +24,11 @@ Software engineer with 8 years of experience in critical data-centric roles, inc
 
 *Dates*: April 2020 – Present
 
-* Protect children online by classifying advertisements into an age-appropriate ratings scheme (AAA), which
-restricts ads with inappropriate topics from serving to minors.
-* Create and maintain systems to enable AAA on multiple Google and third party platforms serving billions
-of users.
+* Protect children online by classifying advertisements into an age-appropriate ratings scheme (AAA), which restricts ads with inappropriate topics from serving to minors.
+* Create and maintain systems to enable AAA on multiple Google and third party platforms serving billions of users.
 * Analyze the performance of machine learning models and launch improvements.
-* Primary engineer on Google search and shopping, including launch / roadmaps / design, analysis,
-pipelining, etc.; these projects increased AAA child coverage by 10x.
-* Design and improve team infrastructure; realized 50% alert reduction and significantly improved
-automation by designing a new scheduling platform, while reducing on-call toil.
+* Primary engineer on Google search and shopping, including launch / roadmaps / design, analysis, pipelining, etc.; these projects increased AAA child coverage by 10x.
+* Design and improve team infrastructure; realized 50% alert reduction and significantly improved automation by designing a new scheduling platform, while reducing on-call toil.
 * Mentor junior engineers, and participate in regular code reviews, team on-call duties, and interviewing.
 
 **Micron Technology, Inc.**
@@ -37,14 +39,11 @@ automation by designing a new scheduling platform, while reducing on-call toil.
 
 *Dates*: August 2015 – April 2020
 
-* Automate manufacturing reactions to process faults and anomalies, with the goal of reducing scrap,
-product variance, and RMAs, via modeling in fault detection and classification systems (FDC).
-* Created and maintained FDC systems, and enhanced FDC system functionality with plugins and feature
-additions.
+* Automate manufacturing reactions to process faults and anomalies, with the goal of reducing scrap, product variance, and RMAs, via modeling in fault detection and classification systems (FDC).
+* Created and maintained FDC systems, and enhanced FDC system functionality with plugins and feature additions.
 * Worked with process engineers to model manufacturing processes and establish suitable process limits.
 * Realized multi-million dollar savings across product lines at multiple factories with FDC systems.
-* Designed / implemented FDC integration on new thermal compression bonder process; significantly
-reduced faults and excursions.
+* Designed / implemented FDC integration on new thermal compression bonder process; significantly reduced faults and excursions.
 * Global SME for new tool / sensor integrations and non-standard control systems solutions.
 * Worked with R&D groups to provide FDC coverage for new product integrations.
 
@@ -80,5 +79,4 @@ reduced faults and excursions.
 *Dates*: December 2016 – August 2019
 
 * Make high-level decisions for the organization with the rest of the executive team.
-* Developed website, wrote non-profit incorporation documents, and created other public-facing
-documents.
+* Developed website, wrote non-profit incorporation documents, and created other public-facing documents.
