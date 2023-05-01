@@ -1,17 +1,8 @@
+Blake French
+
 A copy of this resume can be found in PDF form [here](https://blakefren.github.io/resume.pdf).
 
-## Contact info
-*Name*: Blake French
-
-*LinkedIn*: [www.linkedin.com/in/blakefrench](www.linkedin.com/in/blakefrench)
-
-*Phone*: 208-380-0086
-
-*Email*: blakefren@gmail.com
-
-*Location*: San Diego, CA
-
-Please contact me via email or LinkedIn.
+Please contact me via email or LinkedIn (both are below).
 
 # SUMMARY
 
