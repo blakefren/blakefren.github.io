@@ -1,4 +1,4 @@
-# Blake French
+Blake French
 
 A copy of this resume can be found in PDF form [here](https://blakefren.github.io/resume.pdf).
 
