@@ -1,5 +1,3 @@
-# Blake French
-
 A copy of this resume can be found in PDF form [here](https://blakefren.github.io/resume.pdf).
 
 ## Contact info
@@ -90,4 +88,4 @@ reduced faults and excursions.
 
 * Make high-level decisions for the organization with the rest of the executive team.
 * Developed website, wrote non-profit incorporation documents, and created other public-facing
-documents. 
+documents.
