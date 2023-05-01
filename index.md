@@ -4,7 +4,7 @@ A copy of this resume can be found in PDF form [here](https://blakefren.github.i
 
 Please contact me via email or LinkedIn:
 
-*LinkedIn*: [www.linkedin.com/in/blakefrench](www.linkedin.com/in/blakefrench)
+*LinkedIn*: [https://www.linkedin.com/in/blakefrench](https://www.linkedin.com/in/blakefrench)
 
 *Email*: blakefren@gmail.com
 
