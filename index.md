@@ -12,24 +12,25 @@ Please contact me via email or LinkedIn:
 
 # SUMMARY
 
-Software engineer with 8 years of experience in critical data-centric roles, including large-scale online advertising and semiconductor manufacturing. Design and maintain large-scale production systems, involving billions of records each, and train / enable relevant models. Experienced in multiple languages such as Python and C++. Background in machine learning and physics.
+Software engineer with 9 years of professional experience and a proven ability to deliver impactful results. Experience in large-scale advertising and semiconductor manufacturing, designing production systems handling billions of users and revenue. Successful in smaller environments such as education nonprofits. Strong leadership ability to empower teams in a variety of fields. Background in machine learning and physics.
 
 # EXPERIENCE
 
 **Google**
 
-*Job Title*: Software Engineer
+*Job Title*: Senior Software Engineer
 
 *Location*: San Diego, CA
 
 *Dates*: April 2020 – Present
 
 * Protect children online by classifying advertisements into an age-appropriate ratings scheme (AAA), which restricts ads with inappropriate topics from serving to minors.
+* Lead the kids experiences team through technical design, public-facing duties, and external collaboration; and by mentoring and empowering junior engineers.
 * Create and maintain systems to enable AAA on multiple Google and third party platforms serving billions of users.
-* Analyze the performance of machine learning models and launch improvements.
-* Primary engineer on Google search and shopping, including launch / roadmaps / design, analysis, pipelining, etc.; these projects increased AAA child coverage by 10x.
-* Design and improve team infrastructure; realized 50% alert reduction and significantly improved automation by designing a new scheduling platform, while reducing on-call toil.
-* Mentor junior engineers, and participate in regular code reviews, team on-call duties, and interviewing.
+* Expanded AAA child protections by ~10x via project ownership on Google Search and Shopping; including design, implementation, launches, analysis, and pipelining. Collaborate and lead cross-functional teams to achieve these goals.
+* Realized 50% alert reduction and improved automation by designing a new scheduling platform, while reducing on-call toil. Led a team of engineers during implementation.
+* Promote team activities: regular code and design reviews, on-call duties, and interviewing.
+
 
 **Micron Technology, Inc.**
 
@@ -39,13 +40,13 @@ Software engineer with 8 years of experience in critical data-centric roles, inc
 
 *Dates*: August 2015 – April 2020
 
-* Automate manufacturing reactions to process faults and anomalies, with the goal of reducing scrap, product variance, and RMAs, via modeling in fault detection and classification systems (FDC).
+* Automated manufacturing anomaly / fault detection and reaction (FDC) with the goal of reducing scrap, product variance, and RMAs at all backend sites globally.
 * Created and maintained FDC systems, and enhanced FDC system functionality with plugins and feature additions.
-* Worked with process engineers to model manufacturing processes and establish suitable process limits.
 * Realized multi-million dollar savings across product lines at multiple factories with FDC systems.
-* Designed / implemented FDC integration on new thermal compression bonder process; significantly reduced faults and excursions.
-* Global SME for new tool / sensor integrations and non-standard control systems solutions.
-* Worked with R&D groups to provide FDC coverage for new product integrations.
+* Addressed need for global alignment on FDC systems by training and leading an international team.
+* Modeled manufacturing processes and established controls by collaborating with process engineers and other technical experts.
+* Designed integrations for new tool / sensor integrations and non-standard systems as the global SME. Collaborated with R&D groups to cover new product integrations.
+* Designed / implemented FDC integration on state-of-the-art thermal compression bonder process. Reduced faults, excursions, and customer RMAs.
 
 # EDUCATION
 
@@ -64,8 +65,8 @@ Software engineer with 8 years of experience in critical data-centric roles, inc
 
 # TECHNICAL SKILLS
 
-* Python, C++, SQL, C#, Go
-* Machine learning, mapreduce, statistical process control techniques
+* Languages: Python, C++, SQL, C#, Go
+* Machine learning, software development, automation
 * Python libraries: Torch, Tensorflow + Keras, pandas, sklearn
 
 # OTHER EXPERIENCE
@@ -78,5 +79,6 @@ Software engineer with 8 years of experience in critical data-centric roles, inc
 
 *Dates*: December 2016 – August 2019
 
-* Make high-level decisions for the organization with the rest of the executive team.
-* Developed website, wrote non-profit incorporation documents, and created other public-facing documents.
+Founded the organization; achieved federal nonprofit status on the first attempt.
+Made high-level decisions for the organization with the rest of the executive team.
+Developed the website, wrote non-profit incorporation documents, and created other public-facing documents.
