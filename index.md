@@ -11,8 +11,11 @@ Please contact me via email or LinkedIn:
 *Github*: [https://github.com/blakefren](https://github.com/blakefren)
 
 # SUMMARY
+**Senior Software Engineer | Tech Lead | Large-Scale Distributed Systems & Ad Safety**
 
-Software engineer with 9 years of professional experience and a proven ability to deliver impactful results. Experience in large-scale advertising and semiconductor manufacturing, designing production systems handling billions of users and revenue. Successful in smaller environments such as education nonprofits. Strong leadership ability to empower teams in a variety of fields. Background in machine learning and physics.
+Software Engineer with 9+ years of experience in high-stakes environments, from global semiconductor
+manufacturing to Google-scale advertising safety. Proven track record of leading cross-functional teams to deliver
+0-to-1 infrastructure and scaling protections for billions of users.
 
 # EXPERIENCE
 
@@ -24,12 +27,26 @@ Software engineer with 9 years of professional experience and a proven ability t
 
 *Dates*: April 2020 – Present
 
-* Protect children online by classifying advertisements into an age-appropriate ratings scheme (AAA), which restricts ads with inappropriate topics from serving to minors.
-* Lead the kids experiences team through technical design, public-facing duties, and external collaboration; and by mentoring and empowering junior engineers.
-* Create and maintain systems to enable AAA on multiple Google and third party platforms serving billions of users.
-* Expanded AAA child protections by ~10x via project ownership on Google Search and Shopping; including design, implementation, launches, analysis, and pipelining. Collaborate and lead cross-functional teams to achieve these goals.
-* Realized 50% alert reduction and improved automation by designing a new scheduling platform, while reducing on-call toil. Led a team of engineers during implementation.
-* Promote team activities: regular code and design reviews, on-call duties, and interviewing.
+*Lead technical strategy for Ads Safety systems protecting minor demographics across all Google surfaces (Search,
+YouTube, Play, Shopping).*
+
+* Spearheaded the Global Age Assurance technical roadmap, architecting unified safety enforcement across
+Search, YouTube, Play, and Shopping to protect hundreds of millions of newly inferred minor users
+worldwide.
+* Architected a novel classification system for Search Creative Protections, achieving a 90% reduction in
+age-inappropriate impressions while successfully navigating five years of legacy technical hurdles and
+shifting product priorities.
+* Neutralized critical safety gaps on Search Ads via query-intent signals, establishing a novel demonetization
+mechanism for mature-intent queries that was recognized by management as an org-wide success story.
+* Championed a 100% reduction in job errors for critical pipelines by leading a multi-stage migration to a
+new scheduling platform; successfully influenced neighboring teams to adopt the framework as the new
+organizational standard.
+* Drove significant technical debt reduction in complex Shopping metric pipelines, refactoring workflows
+and improving data governance to accelerate delivery cycles by an entire quarter.
+* Redesigned Ads Content Safety on-call rotations, implementing a sustainable governance model that
+balanced cross-team load and improved operational health for multiple teams.
+* Multiplied team capabilities by leading a team lead cohort and mentoring four junior engineers, directly
+enabling their successful project landings and career growth.
 
 
 **Micron Technology, Inc.**
@@ -40,13 +57,35 @@ Software engineer with 9 years of professional experience and a proven ability t
 
 *Dates*: August 2015 – April 2020
 
-* Automated manufacturing anomaly / fault detection and reaction (FDC) with the goal of reducing scrap, product variance, and RMAs at all backend sites globally.
-* Created and maintained FDC systems, and enhanced FDC system functionality with plugins and feature additions.
-* Realized multi-million dollar savings across product lines at multiple factories with FDC systems.
-* Addressed need for global alignment on FDC systems by training and leading an international team.
-* Modeled manufacturing processes and established controls by collaborating with process engineers and other technical experts.
-* Designed integrations for new tool / sensor integrations and non-standard systems as the global SME. Collaborated with R&D groups to cover new product integrations.
-* Designed / implemented FDC integration on state-of-the-art thermal compression bonder process. Reduced faults, excursions, and customer RMAs.
+*Architected global Fault Detection & Classification (FDC) frameworks and IoT data collection systems for R&D
+manufacturing tools.*
+* Architected a unified Global FDC framework for 1,000+ tools across four countries, realizing multi-million
+dollar annual savings through automated scrap reduction.
+* Eliminated a "single point of failure" for a global R&D site by identifying a legacy network bottleneck and
+deploying an automated Python-based lifecycle management system that reclaimed terabytes of storage.
+* Engineered a "zero-to-one" implementation for state-of-the-art Thermal Compression Bonding, translating
+high-level physics R&D requirements into production-ready software controls for next-gen products.
+* Modernized industrial manufacturing standards by introducing modular plugin architectures and version
+control to legacy monolithic environments, significantly increasing deployment velocity and system
+reliability.
+* Authored and scaled the "Global FDC Training Program", effectively "cloning" technical expertise across
+international sites in Singapore, Taiwan, and Malaysia to ensure 24/7 global operational support.
+* Automated single-chip traceability and scrapping logic, calculating electronic fuse IDs from complex wafer
+orientations to eliminate manual engineering effort and reduce customer RMAs.
+
+
+**Armada Corps, Inc.**
+
+*Job Title*: Founder, Board Member
+
+*Location*: Boise, ID
+
+*Dates*: December 2016 – August 2019
+
+Founded the organization; achieved federal nonprofit status on the first attempt.
+Made high-level decisions for the organization with the rest of the executive team.
+Developed the website, wrote non-profit incorporation documents, and created other public-facing documents.
+
 
 # EDUCATION
 
@@ -68,17 +107,3 @@ Software engineer with 9 years of professional experience and a proven ability t
 * Languages: Python, C++, SQL, C#, Go
 * Machine learning, software development, automation
 * Python libraries: Torch, Tensorflow + Keras, pandas, sklearn
-
-# OTHER EXPERIENCE
-
-**Armada Corps, Inc.**
-
-*Job Title*: Founder, Board Member
-
-*Location*: Boise, ID
-
-*Dates*: December 2016 – August 2019
-
-Founded the organization; achieved federal nonprofit status on the first attempt.
-Made high-level decisions for the organization with the rest of the executive team.
-Developed the website, wrote non-profit incorporation documents, and created other public-facing documents.
